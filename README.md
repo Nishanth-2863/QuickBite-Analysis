@@ -16,8 +16,8 @@ The dashboard focuses on order trends, revenue impact, delivery performance, cus
 
 
 ---
-🔗 **Live Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiMGJiYTAyMmItYjZkYi00MzkwLTk1YjUtNTQ3MjhjMGJjN2I2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0fec0c3dcc128f291a3f)
-
+🔗 **Live Dashboard:**
+🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJiYTAyMmItYjZkYi00MzkwLTk1YjUtNTQ3MjhjMGJjN2I2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0fec0c3dcc128f291a3f)
 # Key Insights
 
 - Total orders dropped from **149K** in the pre-crisis period to **35K** during the crisis, showing a massive **68% decline in customer demand**.
