@@ -6,6 +6,16 @@ The dashboard focuses on order trends, revenue impact, delivery performance, cus
 
 ---
 
+# Dashboard Preview
+
+## Customer Analysis
+![Customer Dashboard](screenshots/Customer & Behaviour.png)
+
+## Delivery & Restaurant Analysis
+![Orders Dashboard](screenshots/Delivery.png)
+
+
+---
 🔗 **Live Dashboard:** 
 
 # Key Insights
