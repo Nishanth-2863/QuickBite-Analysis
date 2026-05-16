@@ -18,7 +18,7 @@ The goal of this project is to analyze:
 
 # Data Model
 
-![Data Model](Screenshots/data model.png)
+![Data Model](Screenshots/data_model.png)
 
 ### Data Modeling Approach
 
