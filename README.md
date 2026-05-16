@@ -9,10 +9,10 @@ The dashboard focuses on order trends, revenue impact, delivery performance, cus
 # Dashboard Preview
 
 ## Customer Analysis
-![Customer Dashboard](screenshots/customer_orders.png)
+![Customer Dashboard](Screenshots/customer_orders.png)
 
 ## Delivery & Restaurant Analysis
-![Orders Dashboard](screenshots/Delivery.png)
+![Orders Dashboard](Screenshots/Delivery.png)
 
 
 ---
