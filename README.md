@@ -6,6 +6,8 @@ The dashboard focuses on order trends, revenue impact, delivery performance, cus
 
 ---
 
+🔗 **Live Dashboard:** 
+
 # Key Insights
 
 - Total orders dropped from **149K** in the pre-crisis period to **35K** during the crisis, showing a massive **68% decline in customer demand**.
@@ -64,3 +66,10 @@ Operational delays, food safety concerns, and poor service quality resulted in l
 - Power Query
 - DAX
 - Data Modeling
+# Dataset Credit
+
+Dataset and problem statement provided by **Codebasics Resume Project Challenge**.  
+
+🔗 https://codebasics.io/
+
+
