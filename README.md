@@ -1,8 +1,32 @@
 # QuickBite Crisis Recovery Analysis | Power BI Project
 
-## Project Overview
-This Power BI project analyzes the impact of the 2025 crisis faced by QuickBite, a food delivery startup.  
-The dashboard focuses on order trends, revenue impact, delivery performance, customer sentiment, loyalty behavior, and operational efficiency during the crisis period.
+
+# Problem Statement
+
+QuickBite Express, a Bengaluru-based food delivery startup, faced a major crisis in June 2025 due to food safety violations and delivery outages during the monsoon season.  
+The crisis resulted in declining customer trust, reduced orders, poor delivery performance, negative customer sentiment, and revenue loss.
+
+The goal of this project is to analyze:
+- Customer behavior before and during the crisis
+- Revenue and order decline
+- Delivery performance and SLA impact
+- Customer ratings and sentiment trends
+- Loyal customer churn
+- City-level business impact
+
+---
+
+# Data Model
+
+![Data Model](Screenshots/data model.png)
+
+### Data Modeling Approach
+
+  are connected to the central fact table for filtering and analysis.
+
+- A snowflake schema relationship is also used where `dim_menu_item` is connected through `dim_restaurant`.
+
+This model helped in performing efficient analysis across customer behavior, delivery performance, restaurant trends, and sentiment analysis.
 
 ---
 
